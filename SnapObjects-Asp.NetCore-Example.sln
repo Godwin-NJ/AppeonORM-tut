@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appeon.SnapObjectsDemo.Service", "Appeon.SnapObjectsDemo.Service\Appeon.SnapObjectsDemo.Service.csproj", "{5DAAA482-2884-4C3F-9EBD-7793FB3E9E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appeon.SnapObjectsDemo.Web", "Appeon.SnapObjectsDemo.Web\Appeon.SnapObjectsDemo.Web.csproj", "{87B16E0F-B992-4CA9-A66F-1AD4D71ADA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DAAA482-2884-4C3F-9EBD-7793FB3E9E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAAA482-2884-4C3F-9EBD-7793FB3E9E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAAA482-2884-4C3F-9EBD-7793FB3E9E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAAA482-2884-4C3F-9EBD-7793FB3E9E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B16E0F-B992-4CA9-A66F-1AD4D71ADA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B16E0F-B992-4CA9-A66F-1AD4D71ADA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B16E0F-B992-4CA9-A66F-1AD4D71ADA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B16E0F-B992-4CA9-A66F-1AD4D71ADA23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEB5F33-3CA1-4DFF-A5C5-B45020F2E9A3}
+	EndGlobalSection
+EndGlobal

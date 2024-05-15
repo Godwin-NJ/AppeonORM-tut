@@ -1,0 +1,12 @@
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\bin\Debug\net6.0\Appeon.SnapObjectsDemo.Service.deps.json
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\bin\Debug\net6.0\Appeon.SnapObjectsDemo.Service.dll
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\bin\Debug\net6.0\Appeon.SnapObjectsDemo.Service.pdb
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\obj\Debug\net6.0\Appeon.SnapObjectsDemo.Service.csproj.AssemblyReference.cache
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\obj\Debug\net6.0\Appeon.SnapObjectsDemo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\obj\Debug\net6.0\Appeon.SnapObjectsDemo.Service.AssemblyInfoInputs.cache
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\obj\Debug\net6.0\Appeon.SnapObjectsDemo.Service.AssemblyInfo.cs
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\obj\Debug\net6.0\Appeon.SnapObjectsDemo.Service.csproj.CoreCompileInputs.cache
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\obj\Debug\net6.0\Appeon.SnapObjectsDemo.Service.dll
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\obj\Debug\net6.0\refint\Appeon.SnapObjectsDemo.Service.dll
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\obj\Debug\net6.0\Appeon.SnapObjectsDemo.Service.pdb
+C:\Users\ITAP006\Desktop\C#-Tut\2024\SnapObjects-Asp.NetCore-Example\Appeon.SnapObjectsDemo.Service\obj\Debug\net6.0\ref\Appeon.SnapObjectsDemo.Service.dll

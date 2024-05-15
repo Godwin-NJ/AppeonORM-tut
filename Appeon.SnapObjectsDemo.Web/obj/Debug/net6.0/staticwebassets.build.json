@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bvrdLJZkkwr+aNYUaw2yusFLggRYF6SdHplZmy31kBE=",
+  "Source": "Appeon.SnapObjectsDemo.Web",
+  "BasePath": "_content/Appeon.SnapObjectsDemo.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
